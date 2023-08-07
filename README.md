@@ -36,11 +36,11 @@ Cut-Rearrange-Image is a Python script that takes an image, divides it into 16 s
 
 ## License
 
-- This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Credit
 
-- This project was created by Tide Scans
+This project was created by Tide Scans
 
 ## Contact
 
